@@ -35,3 +35,5 @@
 |`%PROGRAMFILES%`|Путь к каталогу `Program Files`.|
 |`%PROGRAMFILES(X86)%`|Путь к каталогу `Program Files (x86)` в 64-разрядных системах для архитектуры `x86`.|
 |`%PATH%`|Указывает путь поиска исполняеммых файла.|
+
+![изображение](https://user-images.githubusercontent.com/89955549/132616730-69120e1c-9839-4b3d-a8d4-4ee5e7f25688.png)
